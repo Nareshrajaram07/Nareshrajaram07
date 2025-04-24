@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naresh</h1>
 <h3 align="center">A dedicated Machine Learning Engineer and Software Developer from <img align="center" src="https://imgs.search.brave.com/g7b4DndEO0vcg955Gc--OxTaDUOGUmmB9XFXRPH7EF4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/YnJpdGFubmljYS5j/b20vOTcvMTU5Ny0w/NTAtMDA4RjMwRkEv/RmxhZy1JbmRpYS5q/cGc" height="23" width="35" /> , focused on building intelligent and scalable software solutions.</h3>
+<h3>🌱 I’m currently learning, NLP , Gen AI , AGI </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nareshrajaram07&label=Profile%20views&color=0e75b6&style=flat" alt="nareshrajaram07" /> </p>
 

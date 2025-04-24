@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naresh</h1>
-<h3 align="center">A passionate ML Engineer from India</h3>
+<h3 align="center">A dedicated Machine Learning Engineer and Software Developer from <img align="center" src="https://imgs.search.brave.com/g7b4DndEO0vcg955Gc--OxTaDUOGUmmB9XFXRPH7EF4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/YnJpdGFubmljYS5j/b20vOTcvMTU5Ny0w/NTAtMDA4RjMwRkEv/RmxhZy1JbmRpYS5q/cGc" height="23" width="35" /> , focused on building intelligent and scalable software solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nareshrajaram07&label=Profile%20views&color=0e75b6&style=flat" alt="nareshrajaram07" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **nareshrajaram17@gmail.com**
+- 📫 Reach me at **nareshrajaram17@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KYlv9BfXmQa3H08OUoA6EmyJ6DeHYa6Z/view?usp=sharing](https://drive.google.com/file/d/1KYlv9BfXmQa3H08OUoA6EmyJ6DeHYa6Z/view?usp=sharing)
 
